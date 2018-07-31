@@ -1,0 +1,63 @@
+{"errorcode":"0",
+     "errormessage":"",
+     "numberofresults":3,
+     "stopid":"182",
+     "timestamp":"31\/07\/2018 08:49:22",
+     "results":
+     [
+          {
+               "arrivaldatetime":"31\/07\/2018 08:56:30",
+               "duetime":"7",
+               "departuredatetime":"31\/07\/2018 08:56:30",
+               "departureduetime":"7",
+               "scheduledarrivaldatetime":"31\/07\/2018 08:33:00",
+               "scheduleddeparturedatetime":"31\/07\/2018 08:33:00",
+               "destination":"Kimmage","destinationlocalized":"Camaigh",
+               "origin":"Harristown","originlocalized":"Baile Anraí",
+               "direction":"Outbound","operator":"bac",
+               "additionalinformation":"",
+               "lowfloorstatus":"no",
+               "route":"83",
+               "sourcetimestamp":"31\/07\/2018 08:47:47",
+               "monitored":"true"
+          },
+          {
+               "arrivaldatetime":"31\/07\/2018 09:28:30",
+               "duetime":"39",
+               "departuredatetime":"31\/07\/2018 09:28:30",
+               "departureduetime":"39",
+               "scheduledarrivaldatetime":"31\/07\/2018 09:29:00",
+               "scheduleddeparturedatetime":"31\/07\/2018 09:29:00",
+               "destination":"Kimmage",
+               "destinationlocalized":"Camaigh",
+               "origin":"Harristown",
+               "originlocalized":"Baile Anraí",
+               "direction":"Outbound",
+               "operator":"bac",
+               "additionalinformation":"",
+               "lowfloorstatus":"no",
+               "route":"83",
+               "sourcetimestamp":"31\/07\/2018 08:29:38",
+               "monitored":"true"
+          },
+          {
+               "arrivaldatetime":"31\/07\/2018 09:43:30",
+               "duetime":"54",
+               "departuredatetime":"31\/07\/2018 09:43:30",
+               "departureduetime":"54",
+               "scheduledarrivaldatetime":"31\/07\/2018 09:44:00",
+               "scheduleddeparturedatetime":"31\/07\/2018 09:44:00",
+               "destination":"Kimmage",
+               "destinationlocalized":"Camaigh",
+               "origin":"Harristown",
+               "originlocalized":"Baile Anraí",
+               "direction":"Outbound",
+               "operator":"bac",
+               "additionalinformation":"",
+               "lowfloorstatus":"no",
+               "route":"83",
+               "sourcetimestamp":"31\/07\/2018 08:44:29",
+               "monitored":"true"
+          }
+     ]
+}
